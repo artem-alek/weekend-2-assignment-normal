@@ -15,4 +15,20 @@
 
 body {
   margin: 0px;
+  background: #EDEEEF;
+}
+
+.answerContainer {
+  text-align: center;
+}
+
+nav h1 {
+
+  margin: 0px;
+  height: 50px;
+  padding: 10px;
+}
+
+.answer {
+  margin-bottom: 75px;
 }
